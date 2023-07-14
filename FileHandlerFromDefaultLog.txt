@@ -1,0 +1,18 @@
+23/04/2023 13:47 ... DEBUG -- Default Logger by Atila: Imported and Started...
+23/04/2023 13:47 ... INFO -- you have an area of:Size(width=1366, height=768)
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:48 ... INFO -- mouse moved, not afk.
+23/04/2023 13:50 ... DEBUG -- Default Logger by Atila: Imported and Started... -- defaultLog.py
+23/04/2023 13:50 ... DEBUG -- Default Logger by Atila: Imported and Started... -- defaultLog.py
+23/04/2023 13:50 ... INFO -- you have an area of:Size(width=1366, height=768) -- afklolprevent.py
+23/04/2023 13:50 ... INFO -- mouse moved, not afk. -- afklolprevent.py
+23/04/2023 13:50 ... INFO -- mouse moved, not afk. -- afklolprevent.py
+23/04/2023 13:50 ... INFO -- mouse moved, not afk. -- afklolprevent.py
+23/04/2023 13:50 ... INFO -- mouse moved, not afk. -- afklolprevent.py
