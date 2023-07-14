@@ -21,7 +21,7 @@
   1. After 4 hours of usage, the program will exit.
   2. The console will display some logs about the execution, including if the mouse has moved, and how long has the execution of the preventer has passed (after 2min, will not be shown).
   3. All the logs will be also saved in 'Afk-Logs.txt", created within the folder the EXE is on activation.
-  4. It might be a good idea to just change the name of the execution file (.py or .exe) to avoid suspicion of any anticheat search.
+  4. It might be a good idea to just change the name of the execution file (.py or .exe) to a random string, to avoid suspicion of any anticheat search.
 
 
   
