@@ -3,7 +3,7 @@
   This is a simple program to prevent you League of Legends game dealing you a AFK timer, if you got too busy at a time.
   It's a code focused into auto click into a small area of your screen so you will not get a AFK leaverbuster punishment.
 
--How to use:
+--How to use:
   1. Download: The entire repo and ignore the 'dist' folder /OR/ open the folder 'dist' and download the EXEcutable(faster, heavier, only one file independent of a Python Interpreter)
   2. Execute: Run 'afklolprevent.py' /OR/ Run 'afklolprevent.exe'
   3. Have fun!: the program is a automatic auto clicker, you can shut it down by closing the console or pressing the default 'Ctrl + C'
