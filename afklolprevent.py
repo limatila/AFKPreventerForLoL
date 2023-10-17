@@ -1,8 +1,11 @@
-#1.1: added flexible screensize detecter
+#1.2: fixed timer to display real time spent afk.
+
 import pyautogui as pag
-import time; from random import randint, SystemRandom
+import time; from random import SystemRandom
 from logging import debug, info, warning
-InitArea = pag.size() #1366x768 no meu
+
+InitArea = pag.size() #basic resolution
+
 print("""By Atila Lim
 Simple script to click on yor screen to stay out of afk warns..
 Press Ctrl+C to exit program(default cmd exit prompt)
@@ -17,17 +20,22 @@ print("Started --------------------------------")
 info(f"You have an area of:{InitArea}")
 print('')
 
-SystemRandom
+#vars to init
 myPos = pag.position()
 afk_timer = 0
+time_displayed = int(afk_timer)
+
+
+#main loop
 while True:
     if afk_timer >= 14400: break
     if pag.position() == myPos: #if mousestopped
-        afk_timer +=2
+        afk_timer += 2
     else:
         afk_timer = 0
         myPos = pag.position()
         info("Mouse moved, not afk.")
+        
     if afk_timer >= 240:
         warning("2 minutes time exceded: afk disabled")    
     elif afk_timer >= 20:
@@ -46,7 +54,7 @@ while True:
         pag.hotkey("S")
         myPos = pag.position()
 
-        time_displayed = afk_timer
+        time_displayed += (2 + floatsChoice)
         debug(f'Time stoped: {time_displayed:,.1f} seconds(so or less).'.format(time_displayed))
     print('')
     time.sleep(2)
