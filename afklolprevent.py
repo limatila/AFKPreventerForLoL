@@ -56,8 +56,8 @@ while True:
         pag.hotkey("S")
         myPos = pag.position()
 
-        debug(floatsChoice)
-        time_displayed += (2 + floatsChoice) #? use time.perfcounter()
+        debug(floatsChoice) #! remove debugging
+        time_displayed += (2 + floatsChoice) #? use time.perfcounter() // why is the program stopping between 59 - 60?
         debug(f'Time stoped: {time_displayed:,.1f} seconds(so or less).'.format(time_displayed))
     
     print('')
