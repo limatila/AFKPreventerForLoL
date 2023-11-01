@@ -182,3 +182,49 @@
 14/07/2023 10:17 ... DEBUG -- Time stoped: 50.0 seconds(so or less). -- afklolprevent.py
 14/07/2023 10:17 ... INFO -- Mouse moved, not afk. -- afklolprevent.py
 14/07/2023 10:17 ... INFO -- Mouse moved, not afk. -- afklolprevent.py
+17/10/2023 10:18 ... DEBUG -- Default Logger by Atila: Imported and Started... -- defaultLog.py
+17/10/2023 10:18 ... INFO -- You have an area of:Size(width=1920, height=1080) -- afklolprevent.py
+17/10/2023 10:18 ... INFO -- Mouse moved, not afk. -- afklolprevent.py
+24/10/2023 07:59 ... DEBUG -- Default Logger by Atila: Imported and Started... -- defaultLog.py
+24/10/2023 07:59 ... INFO -- You have an area of:Size(width=1920, height=1080) -- afklolprevent.py
+24/10/2023 07:59 ... INFO -- Afk enabled. -- afklolprevent.py
+24/10/2023 07:59 ... DEBUG -- Time stoped: 20.4 seconds(so or less). -- afklolprevent.py
+24/10/2023 07:59 ... DEBUG -- Time stoped: 22.5 seconds(so or less). -- afklolprevent.py
+24/10/2023 07:59 ... DEBUG -- Time stoped: 25.2 seconds(so or less). -- afklolprevent.py
+24/10/2023 07:59 ... DEBUG -- Time stoped: 27.8 seconds(so or less). -- afklolprevent.py
+24/10/2023 07:59 ... DEBUG -- Time stoped: 30.3 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:00 ... DEBUG -- Default Logger by Atila: Imported and Started... -- defaultLog.py
+24/10/2023 08:00 ... INFO -- You have an area of:Size(width=1920, height=1080) -- afklolprevent.py
+24/10/2023 08:00 ... INFO -- Afk enabled. -- afklolprevent.py
+24/10/2023 08:00 ... DEBUG -- 0.09271828220221678 -- afklolprevent.py
+24/10/2023 08:00 ... DEBUG -- Time stoped: 20.1 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- Default Logger by Atila: Imported and Started... -- defaultLog.py
+24/10/2023 08:01 ... INFO -- You have an area of:Size(width=1920, height=1080) -- afklolprevent.py
+24/10/2023 08:01 ... INFO -- Afk enabled. -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- 0.713796899826216 -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- Time stoped: 20.7 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- 0.8174541052674239 -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- Time stoped: 23.5 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- 1.8499861082582907 -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- Time stoped: 27.4 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- 0.7060919890968623 -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- Time stoped: 30.1 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- 2.210499964255671 -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- Time stoped: 34.3 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- 1.777770329131342 -- afklolprevent.py
+24/10/2023 08:01 ... DEBUG -- Time stoped: 38.1 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:06 ... DEBUG -- Default Logger by Atila: Imported and Started... -- defaultLog.py
+24/10/2023 08:06 ... INFO -- You have an area of:Size(width=1920, height=1080) -- afklolprevent.py
+24/10/2023 08:06 ... INFO -- Afk enabled. -- afklolprevent.py
+24/10/2023 08:06 ... DEBUG -- 1.8301916816251214 -- afklolprevent.py
+24/10/2023 08:06 ... DEBUG -- Time stoped: 21.8 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- 1.0783117977512413 -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- Time stoped: 24.9 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- 1.9445150741904682 -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- Time stoped: 28.9 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- 1.2972145803995354 -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- Time stoped: 32.2 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- 0.992686615602901 -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- Time stoped: 35.1 seconds(so or less). -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- 1.1535266584155934 -- afklolprevent.py
+24/10/2023 08:07 ... DEBUG -- Time stoped: 38.3 seconds(so or less). -- afklolprevent.py

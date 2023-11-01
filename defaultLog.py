@@ -1,5 +1,5 @@
 import logging
-from logging import DEBUG, INFO, WARNING, StreamHandler, FileHandler, Formatter
+from logging import DEBUG, StreamHandler, FileHandler, Formatter
 
 fileh = FileHandler("Afk-Logs.txt","a") #for every project this needs to be changed.
 streamh = StreamHandler()
