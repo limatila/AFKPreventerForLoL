@@ -1,4 +1,4 @@
-#ANNOUNCEMENT
+# ANNOUNCEMENT
 No longer will be supported, since league of legends implemented the Vanguard kernel based code system.
 
 # AFK Preventer for LOL
