@@ -1,3 +1,6 @@
+#ANNOUNCEMENT
+No longer will be supported, since league of legends implemented the Vanguard kernel based code system.
+
 # AFK Preventer for LOL
 
   This is a simple program to prevent you League of Legends game dealing you a AFK timer, if you got too busy at a time.
